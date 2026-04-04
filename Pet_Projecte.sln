@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДЗ№6_Демонстра
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДЗ№7_Рефлексия_и_ее_применение", "ДЗ№7_Рефлексия_и_ее_применение\ДЗ№7_Рефлексия_и_ее_применение.csproj", "{F37C52D6-254D-4D1A-9F2D-BD7270878D32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДЗ№8_Делегаты_и_События", "ДЗ№8_Делегаты_и_События\ДЗ№8_Делегаты_и_События.csproj", "{6A35F3B8-6B93-4182-A1C6-B49BED1EA862}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F37C52D6-254D-4D1A-9F2D-BD7270878D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F37C52D6-254D-4D1A-9F2D-BD7270878D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F37C52D6-254D-4D1A-9F2D-BD7270878D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A35F3B8-6B93-4182-A1C6-B49BED1EA862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A35F3B8-6B93-4182-A1C6-B49BED1EA862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A35F3B8-6B93-4182-A1C6-B49BED1EA862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A35F3B8-6B93-4182-A1C6-B49BED1EA862}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
